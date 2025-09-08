@@ -7,3 +7,5 @@ This project aims to improve the MPDO's current database by developing a central
 -Mia Cabanza
 -Alyssa Dig
 -Morly Granado
+
+## DEADLINE: September 08, 2025
