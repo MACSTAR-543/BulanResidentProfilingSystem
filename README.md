@@ -1,2 +1,9 @@
 # BulanResidentProfilingSystem
-A system for resident profiling and population management using Agile-Scrum SDLC.
+
+##Description
+This project aims to improve the MPDO's current database by developing a centralized resident database, implementing indigency IDs, and eliminating duplicate records through smart data validation. The system follows the Agile-Scrum SDLC model for flexibility, collaboration, and incremental delivery.
+
+##Group Members
+-Mia Cabanza
+-Alyssa Dig
+-Morly Granado
